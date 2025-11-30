@@ -13,9 +13,6 @@ A Thought I Live By-
 People often ask, “Where do you see yourself in the next 3–4 years?”
 Truth is, I don’t really buy into that. Life isn’t a straight line—you never know what tomorrow brings. So instead of mapping out years ahead, I try to focus on today: learning something new, finishing what I start, and making the present meaningful.
 
-Skills
-
-Programming: Python, Java
 
 My Goal
 
